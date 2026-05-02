@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> حبيبتي قلبي يناديك في الليل
+> روحي تشتاق إليك وتميل
+> نار الشوق في دمي أكبر دليل
+> عشقي لكِ يشفي القلب العليل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
