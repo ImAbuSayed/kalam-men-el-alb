@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kalam Men El Alb
+
+This log tracks the cryptographic history and versioning for the song **Kalam Men El Alb** (kalam-men-el-alb).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T22:08:21.296237 | `v1` | `518a509c7adc1a6a2f07c2b0a171b4533520fcb29f4fc15d44ac7b5d3dfe1f3a` | `71935c292a6455184c00f30a1ee23ee0cd19901f2b295d2eb9d15f07ecfb045d` | `2026-05-08_kalam-men-el-alb-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
